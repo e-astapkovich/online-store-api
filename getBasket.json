@@ -1,0 +1,20 @@
+[
+    {
+      "id_product": 111,
+      "product_name": "product-1",
+      "price": 50,
+      "img": "https://via.placeholder.com/263x280"
+    },
+    {
+      "id_product": 114,
+      "product_name": "product-4",
+      "price": 9,
+      "img": "https://via.placeholder.com/263x280"
+    },
+    {
+      "id_product": 115,
+      "product_name": "product-5",
+      "price": 19,
+      "img": "https://via.placeholder.com/263x280"
+    }
+  ]
