@@ -3,7 +3,7 @@
       "id_product": 111,
       "product_name": "product-1",
       "price": 50,
-      "img": "https://via.placeholder.com/263x280"
+      "img": "./img/man_product-1.jpg"
     },
     {
       "id_product": 112,
