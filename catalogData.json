@@ -9,24 +9,24 @@
       "id_product": 112,
       "product_name": "product-2",
       "price": 55,
-      "img": "https://via.placeholder.com/263x280"
+      "img": "./img/man_product-2.jpg"
     },
     {
       "id_product": 113,
       "product_name": "product-3",
       "price": 123,
-      "img": "https://via.placeholder.com/263x280"
+      "img": "./img/man_product-3.jpg"
     },
     {
       "id_product": 114,
       "product_name": "product-4",
       "price": 9,
-      "img": "https://via.placeholder.com/263x280"
+      "img": "./img/man_product-4.jpg"
     },
     {
       "id_product": 115,
       "product_name": "product-5",
       "price": 19,
-      "img": "https://via.placeholder.com/263x280"
+      "img": "./img/man_product-5.jpg"
     }
   ]
