@@ -28,5 +28,11 @@
       "product_name": "product-5",
       "price": 19,
       "img": "./img/man_product-5.jpg"
+    },
+    {
+      "id_product": 116,
+      "product_name": "product-6",
+      "price": 25,
+      "img": "./img/man_product-6.jpg"
     }
   ]
