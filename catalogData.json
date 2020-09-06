@@ -1,37 +1,37 @@
 [
     {
       "id_product": 111,
-      "product_name": "product-1",
+      "product_name": "Плащ",
       "price": 50,
       "img": "./img/man_product-1.jpg"
     },
     {
       "id_product": 112,
-      "product_name": "product-2",
+      "product_name": "Пальто",
       "price": 55,
       "img": "./img/man_product-2.jpg"
     },
     {
       "id_product": 113,
-      "product_name": "product-3",
+      "product_name": "Куртка",
       "price": 123,
       "img": "./img/man_product-3.jpg"
     },
     {
       "id_product": 114,
-      "product_name": "product-4",
+      "product_name": "Футболка",
       "price": 9,
       "img": "./img/man_product-4.jpg"
     },
     {
       "id_product": 115,
-      "product_name": "product-5",
+      "product_name": "Толстовка",
       "price": 19,
       "img": "./img/man_product-5.jpg"
     },
     {
       "id_product": 116,
-      "product_name": "product-6",
+      "product_name": "Ветровка",
       "price": 25,
       "img": "./img/man_product-6.jpg"
     }
